@@ -1,0 +1,80 @@
+{
+  "expenses": [
+    {
+      "date": "2/10/2025",
+      "salary": 275000.0,
+      "transport": 15000.0,
+      "food": 37000.0,
+      "internet": 30000.0,
+      "credit": 10000.0,
+      "personal": 20000.0
+    },
+    {
+      "date": "2/11/2025",
+      "salary": 275000.0,
+      "transport": 15000.0,
+      "food": 37000.0,
+      "internet": 30000.0,
+      "credit": 10000.0,
+      "personal": 20000.0
+    },
+    {
+      "date": "2/12/2025",
+      "salary": 275000.0,
+      "transport": 15000.0,
+      "food": 37000.0,
+      "internet": 30000.0,
+      "credit": 10000.0,
+      "personal": 20000.0
+    },
+    {
+      "date": "2/1/2026",
+      "salary": 275000.0,
+      "transport": 7500.0,
+      "food": 18750.0,
+      "internet": 25000.0,
+      "credit": 10000.0,
+      "personal": 20000.0
+    }
+  ],
+  "savings": [
+    {
+      "net": 163000.0,
+      "saved_amount": 24450,
+      "goal": "Car",
+      "cumulative": 24450,
+      "remaining": 138550.0
+    },
+    {
+      "net": 163000.0,
+      "saved_amount": 24450,
+      "goal": "Emergency",
+      "cumulative": 48900,
+      "remaining": 138550.0
+    },
+    {
+      "net": 163000.0,
+      "saved_amount": 24450,
+      "goal": "marrige",
+      "cumulative": 73350,
+      "remaining": 138550.0
+    },
+    {
+      "net": 193750.0,
+      "saved_amount": 29062,
+      "goal": "Car (challanger)",
+      "cumulative": 102412,
+      "remaining": 164688.0
+    }
+  ],
+  "goals": [
+    "Emergency",
+    "Car",
+    "Wedding",
+    "House",
+    "Travel",
+    "Umrah",
+    "Hajj",
+    "General Savings"
+  ]
+}
